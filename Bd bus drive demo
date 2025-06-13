@@ -1,0 +1,32 @@
+# BD Bus Drive Demo (ETS2 Style)
+
+## Requirements
+- Unity 2022.3 LTS
+- Android Build Support module
+
+## How to open
+1. Install Unity 2022.3 LTS & Android Build Support
+2. Clone or download this repo
+3. Open via Unity Hub → select `BD_Bus_Drive_Demo` folder
+4. Open scene: Assets/Scenes/MainScene.unity
+
+## How to build APK
+1. File → Build Settings
+2. Select **Android**
+3. Add MainScene to Scenes list
+4. Click **Build** → choose destination folder
+5. Generate `.apk` file
+
+## Notes
+- Contains demo route: Rangpur → Kurigram
+- Hanif Non-AC bus with steering & camera control
+- Simple environment and background audio loop[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+MemoryCaptures/*.unity text
+*.prefab text
+*.asset binary
+*.mp3 binary
